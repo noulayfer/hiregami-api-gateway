@@ -1,6 +1,7 @@
 spring:
   application:
     name: hiregami-api-gateway
+
   docker:
     compose:
       enabled: false
